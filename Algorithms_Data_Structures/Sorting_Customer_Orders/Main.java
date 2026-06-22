@@ -37,7 +37,6 @@ public class Main {
     if(start>end)
       return ;
     int s=start,e=end;
-   // System.out.println("Start: "+start+" End :"+end);
     int pivot=start;
     while(start<=end)
     {
