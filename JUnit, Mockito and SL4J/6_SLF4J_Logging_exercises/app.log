@@ -1,0 +1,21 @@
+12:22:11.852 [main] DEBUG org.yadhidya.AppenderExample - This is a DEBUG message
+12:22:11.854 [main] INFO  org.yadhidya.AppenderExample - Application started successfully
+12:22:11.856 [main] WARN  org.yadhidya.AppenderExample - This is a WARNING message
+12:22:11.856 [main] ERROR org.yadhidya.AppenderExample - This is an ERROR message
+12:22:11.856 [main] INFO  org.yadhidya.AppenderExample - Logging completed.
+12:22:25.254 [main] INFO  o.y.LoggingParameterizedExample - Employee name:Yadhi
+12:22:25.256 [main] INFO  o.y.LoggingParameterizedExample - Employee ID: 101
+12:22:25.256 [main] INFO  o.y.LoggingParameterizedExample - Employee Salary:6500.2
+12:22:25.256 [main] INFO  o.y.LoggingParameterizedExample - Emplyee Yadhi with id 101 earns 6500.2
+12:22:25.257 [main] WARN  o.y.LoggingParameterizedExample - Employee Yadhi salary 
+12:22:25.258 [main] ERROR o.y.LoggingParameterizedExample - Unable to process 101
+12:22:37.655 [main] DEBUG org.yadhidya.AppenderExample - This is a DEBUG message
+12:22:37.657 [main] INFO  org.yadhidya.AppenderExample - Application started successfully
+12:22:37.658 [main] WARN  org.yadhidya.AppenderExample - This is a WARNING message
+12:22:37.659 [main] ERROR org.yadhidya.AppenderExample - This is an ERROR message
+12:22:37.659 [main] INFO  org.yadhidya.AppenderExample - Logging completed.
+12:22:48.203 [main] DEBUG org.yadhidya.AppenderExample - This is a DEBUG message
+12:22:48.205 [main] INFO  org.yadhidya.AppenderExample - Application started successfully
+12:22:48.206 [main] WARN  org.yadhidya.AppenderExample - This is a WARNING message
+12:22:48.206 [main] ERROR org.yadhidya.AppenderExample - This is an ERROR message
+12:22:48.206 [main] INFO  org.yadhidya.AppenderExample - Logging completed.
