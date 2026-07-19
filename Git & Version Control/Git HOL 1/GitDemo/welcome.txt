@@ -1,0 +1,3 @@
+Welcome to Git Hands-on Lab!
+This is our welcome file for Git Demo.
+It contains some sample content to demonstrate the Git lifecycle.
