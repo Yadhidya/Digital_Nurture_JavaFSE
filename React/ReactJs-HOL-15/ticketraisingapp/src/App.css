@@ -1,0 +1,24 @@
+.App{
+    text-align:center;
+    font-family:Arial;
+}
+
+.container{
+    margin-top:40px;
+}
+
+table{
+    margin:auto;
+}
+
+td{
+    padding:10px;
+}
+
+h1{
+    color:red;
+}
+
+button{
+    padding:6px 15px;
+}
