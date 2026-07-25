@@ -1,0 +1,29 @@
+.App{
+    text-align:center;
+    font-family:Arial;
+}
+
+.container{
+    margin-top:40px;
+}
+
+h1{
+    color:red;
+}
+
+table{
+    margin:auto;
+}
+
+td{
+    padding:8px;
+}
+
+input{
+    width:180px;
+    padding:4px;
+}
+
+button{
+    padding:6px 15px;
+}
