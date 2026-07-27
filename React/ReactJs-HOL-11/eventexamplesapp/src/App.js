@@ -19,7 +19,6 @@ function App() {
   }
   const currency=()=>{
     let val=document.getElementById("option");
-    console.log(val.textContent);
     if(val.value==="Euro")
     {
       let amount=Number(document.getElementById("amount").value);
@@ -31,13 +30,16 @@ function App() {
       console.log("Rupees",amount/100);
     }
   }
+  const clikced=()=>{
+    alert("I was clicked");
+  }
   return (
     <div className="App">
       <h2>Count : {count}</h2>
       <button onClick={increment}>Increment</button>
       <button onClick={decrement}>Decrement</button>
       <button onClick={welcome}>Say Welcome</button>
-      <button>Click On me</button>
+      <button onClick={clikced}>Click On me</button>
       <h2>Currency Convertor</h2>
       <label name="amount">Amount:</label>
       <input type="number" name="amount"   id="amount"/>
